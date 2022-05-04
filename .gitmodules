@@ -1,3 +1,4 @@
 [submodule "resume"]
 	path = resume
 	url = https://github.com/x-j/resume.git
+	branch = gio
