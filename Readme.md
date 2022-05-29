@@ -8,10 +8,8 @@ Hi, I'm Ksawery and I come from Warsaw. I like this city very much.
 
 ### If you're interested in hiring me, you can visit the links below:
 
-- [my resume in English]()
-- [my resume in Polish for IT recruiters]()
-- [my resume in Polish for everyone else]()
+- [my resume in English](docs/cveng/doc/)
+- [my resume in Polish for IT recruiters](docs/cvit/doc)
+- [my resume in Polish for everyone else](docs/cvhos/doc)
 
-built in HTML using a template forked from [Thomas Leon Highbaugh](https://github.com/Thomashighbaugh/resume)
-
-## Otherwise, feel free to visit my profile on Instagram: [@try_miga](https://instagram.com/try_miga) or on Github (link below)
+### Otherwise, feel free to visit my profile on Instagram: [@try_miga](https://instagram.com/try_miga) or on Github (link below)
