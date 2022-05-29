@@ -1,7 +1,3 @@
-[submodule "resume"]
-	path = resume
-	url = https://github.com/x-j/resume.git
-	branch = gio
 [submodule "cvit"]
 	path = cvit
 	url = https://github.com/x-j/resume.git
@@ -14,3 +10,7 @@
 	path = docs/cvhos
 	url = https://github.com/x-j/resume.git
 	branch = arthos
+[submodule "docs/cveng"]
+	path = docs/cveng
+	url = https://github.com/x-j/resume.git
+	branch = enghos
