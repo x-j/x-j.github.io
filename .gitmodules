@@ -2,3 +2,15 @@
 	path = resume
 	url = https://github.com/x-j/resume.git
 	branch = gio
+[submodule "cvit"]
+	path = cvit
+	url = https://github.com/x-j/resume.git
+	branch = cvit
+[submodule "docs/cvit"]
+	path = docs/cvit
+	url = https://github.com/x-j/resume.git
+	branch = cvit
+[submodule "docs/cvhos"]
+	path = docs/cvhos
+	url = https://github.com/x-j/resume.git
+	branch = arthos
