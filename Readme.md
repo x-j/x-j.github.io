@@ -12,6 +12,6 @@ Hi, I'm Ksawery and I come from Warsaw. I like this city very much.
 - [my resume in Polish for IT recruiters]()
 - [my resume in Polish for everyone else]()
 
-built in HTML using a template forked from https://github.com/Thomashighbaugh/resume
+built in HTML using a template forked from [Thomas Leon Highbaugh](https://github.com/Thomashighbaugh/resume)
 
-### Otherwise, feel free to visit my profile on GitHub
+## Otherwise, feel free to visit my profile on Instagram: [@try_miga](https://instagram.com/try_miga) or on Github (link below)
